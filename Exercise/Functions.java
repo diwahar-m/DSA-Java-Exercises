@@ -67,8 +67,8 @@ public class Functions {
 //        System.out.println(getPrimeBetweenNum(arr[0], arr[1]));
 
         // 14) Sum of first n natural numbers
-        int num = in.nextInt();
-        System.out.println(getNaturalNumberSum(num));
+//        int num = in.nextInt();
+//        System.out.println(getNaturalNumberSum(num));
     }
     // (1)
     static int getMaxNum(int a, int b,int c){
